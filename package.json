@@ -1,6 +1,6 @@
 {
   "name": "logs-maker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easy way of creating log files",
   "main": "build/index.js",
   "types": "build/index.d.ts",
