@@ -61,5 +61,6 @@ function logMessage(data) {
     writeFile(dir, text);
 }
 exports.default = {
-    logMessage
+    logMessage,
+    writeFile
 };
